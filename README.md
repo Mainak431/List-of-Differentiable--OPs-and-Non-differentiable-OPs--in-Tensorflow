@@ -11,16 +11,19 @@ Differentiable - ops.RegisterGradient
 & 
 Non-Differentiable- ops.NotDifferentiable
 
-# Differentiable List - https://github.com/Mainak431/List-of-Differentiable--OPs-and-Non-differentiable-OPs--in-Tensorflow/blob/master/DIFFERENTIABLE%20LIST.txt
+# Differentiable List - 
+https://github.com/Mainak431/List-of-Differentiable--OPs-and-Non-differentiable-OPs--in-Tensorflow/blob/master/DIFFERENTIABLE%20LIST.txt
 
-# Non-Differentiable List - https://github.com/Mainak431/List-of-Differentiable--OPs-and-Non-differentiable-OPs--in-Tensorflow/blob/master/NonDifferentiable.txt
+# Non-Differentiable List -
+https://github.com/Mainak431/List-of-Differentiable--OPs-and-Non-differentiable-OPs--in-Tensorflow/blob/master/NonDifferentiable.txt
 
-# The code which created the lists are given here  https://github.com/Mainak431/List-of-Differentiable--OPs-and-Non-differentiable-OPs--in-Tensorflow/blob/master/extract_all_ops.py
+# The code which created the lists are given 
+https://github.com/Mainak431/List-of-Differentiable--OPs-and-Non-differentiable-OPs--in-Tensorflow/blob/master/extract_all_ops.py
 
 # DIFFERENTIABLE OPS:
 
-"DebugGradientIdentity" 
-"DebugGradientRefIdentity" 
+"DebugGradientIdentity" \
+"DebugGradientRefIdentity"\ 
 "If" 
 "Roll" 
 "Conv2DBackpropInput" 
