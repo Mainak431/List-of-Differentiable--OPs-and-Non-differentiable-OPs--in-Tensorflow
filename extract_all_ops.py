@@ -36,10 +36,7 @@ for i in dirpaths:
                 if check_values[1] in data:
                     d = data.replace(')', ' (').split('(')
                     diff.append(d[1])
-            count += 1
-            if count == 10:
-                break
-
+           
 file1 = open('NONDIFFERENTIABLE.TXT', 'w')
 
 for i in nondiff:
